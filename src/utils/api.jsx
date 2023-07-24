@@ -1,4 +1,4 @@
-const API_KEY = "AIzaSyAgxql25yxbzpf7h1vyayKWgkb_0MaZvmE";
+const API_KEY = "AIzaSyDSSIgipVRx8lRn7Keogh2MI3F5CHHFK3Q";
 
 export const SEARCH_VIDEOS_API =
   "https://youtube.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&regionCode=IN&key=" +
